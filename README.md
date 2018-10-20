@@ -1,5 +1,5 @@
 # ide-yourdsl
-Basic example of creating Atom plugin from Xtext fat jar language server.
+Basic example of Atom plugin from Xtext fat jar language server.
 
 Project contains default Xtext language server. 
 
