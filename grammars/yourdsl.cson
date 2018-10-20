@@ -1,0 +1,14 @@
+'scopeName': 'source.yourdsl'
+'name': 'Your DSL'
+'fileTypes': [
+  'yourdsl'
+]
+injections:
+  'L:*':
+    patterns: [
+        {
+            match: '\\b(Hello)\\b'
+            name: 'keyword.control.gs'
+        }
+    ]
+
