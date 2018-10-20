@@ -8,7 +8,7 @@ injections:
     patterns: [
         {
             match: '\\b(Hello)\\b'
-            name: 'keyword.control.gs'
+            name: 'keyword.control.yourdsl'
         }
     ]
 
